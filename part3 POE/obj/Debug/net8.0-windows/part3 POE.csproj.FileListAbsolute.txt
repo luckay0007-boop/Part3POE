@@ -1,0 +1,1 @@
+C:\Users\lucka\source\repos\part3 POE\part3 POE\obj\Debug\net8.0-windows\part3 POE.csproj.AssemblyReference.cache
